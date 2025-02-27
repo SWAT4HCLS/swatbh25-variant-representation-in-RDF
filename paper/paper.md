@@ -34,10 +34,10 @@ authors:
     orcid: 0000-0001-6108-5552
     affiliation: 9
   - name: Jerven Bolleman
-  - orcid: 0000-0002-7449-1266
+    orcid: 0000-0002-7449-1266
     affiliation:10
   - name: Andra Waagmeester
-  - orcid: 0000-0001-9773-4008
+    orcid: 0000-0001-9773-4008
     affiliation:11
     
 affiliations:
