@@ -41,26 +41,26 @@ authors:
     affiliation: 11
     
 affiliations:
-  - name: Leiden University Medical Center
+  - name: Leiden University Medical Center, Leiden, Netherlands
     index: 1
-  - name: Ghent University
+  - name: Ghent University, Ghent, Belgium
     index: 2
-  - name: Nantes Université, CNRS, INSERM, l’institut du thorax, F-44000 Nantes, France
+  - name: Nantes Université, CNRS, INSERM, L’institut du Thorax, Nantes, France
     index: 3
-  - name: IRD, University of Montpllier
+  - name: IRD, University of Montpellier, Montpellier, France
     index: 4
-  - name: 
+  - name: IQVIA, Barcelona, Catalonia, Spain
     index: 5
-  - name: University Greifswald
+  - name: University of Greifswald, Greifswald, Germany
     index: 6
   - name: 
     index: 7
-  - name: University Medical Center Groningen
+  - name: University Medical Center Groningen, Groningen, Netherlands
     index: 9
-  - name: Swiss Institute of Bioinformatics Geneva
+  - name: Swiss Institute of Bioinformatics, Geneva, Switzerland
     index: 10
-  - name: Amsterdam UMC
-    index: 11     
+  - name: Amsterdam UMC, Amsterdam, Netherlands
+    index: 11
 date: 27. February 2025
 cito-bibliography: paper.bib
 event: BH25SWAT4HCLS
