@@ -29,7 +29,7 @@ authors:
     affiliation: 7
   - name: Alban Gaignard
     orcid: 0000-0002-3597-8557
-    affiliation: 8
+    affiliation: 3
   - name: Alexander Kellmann
     orcid: 0000-0001-6108-5552
     affiliation: 9
@@ -43,9 +43,9 @@ authors:
 affiliations:
   - name: Leiden University Medical Center
     index: 1
-  - name: 
+  - name: Ghent University
     index: 2
-  - name: 
+  - name: Nantes Université, CNRS, INSERM, l’institut du thorax, F-44000 Nantes, France
     index: 3
   - name: IRD, University of Montpllier
     index: 4
@@ -55,8 +55,6 @@ affiliations:
     index: 6
   - name: 
     index: 7
-  - name: 
-    index: 8   
   - name: University Medical Center Groningen
     index: 9
   - name: Swiss Institute of Bioinformatics Geneva
