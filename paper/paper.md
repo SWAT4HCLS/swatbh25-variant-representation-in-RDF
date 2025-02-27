@@ -13,7 +13,7 @@ authors:
     orcid: 0000-0003-0169-8159
     affiliation: 2
   - name: Alexandrina Bodrug
-    orcid:  0009-0006-3873-102X
+    orcid: 0009-0006-3873-102X
     affiliation: 3
   - name: Pierre Larmande
     orcid: 0000-0002-2923-9790
@@ -24,7 +24,7 @@ authors:
   - name: Mark Doerr
     orcid: 0000-0003-3270-6895
     affiliation: 6
-  - name:  M. Scott Marshall
+  - name: M. Scott Marshall
     orcid: 0009-0003-6974-2213
     affiliation: 7
   - name: Alban Gaignard
@@ -35,10 +35,10 @@ authors:
     affiliation: 9
   - name: Jerven Bolleman
     orcid: 0000-0002-7449-1266
-    affiliation:10
+    affiliation: 10
   - name: Andra Waagmeester
     orcid: 0000-0001-9773-4008
-    affiliation:11
+    affiliation: 11
     
 affiliations:
   - name: Leiden University Medical Center
