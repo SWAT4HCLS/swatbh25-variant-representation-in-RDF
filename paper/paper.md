@@ -33,11 +33,17 @@ authors:
   - name: Alexander Kellmann
     orcid: 0000-0001-6108-5552
     affiliation: 9
+  - name: Jerven Bolleman
+  - orcid: 0000-0002-7449-1266
+    affiliation:10
+  - name: Andra Waagmeester
+  - orcid: 0000-0001-9773-4008
+    affiliation:11
     
 affiliations:
-  - name: 
-    index: 1
   - name: Leiden University Medical Center
+    index: 1
+  - name: 
     index: 2
   - name: 
     index: 3
@@ -51,8 +57,12 @@ affiliations:
     index: 7
   - name: 
     index: 8   
-  - name: UMCG, Rijksuniversiteit Groningen
+  - name: University Medical Center Groningen
     index: 9
+  - name: Swiss Institute of Bioinformatics Geneva
+    index: 10
+  - name: Amsterdam UMC
+    index: 11     
 date: 27. February 2025
 cito-bibliography: paper.bib
 event: BH25SWAT4HCLS
