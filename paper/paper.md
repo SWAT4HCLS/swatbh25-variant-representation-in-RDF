@@ -80,7 +80,7 @@ authors_short: First Author \emph{et al.}
 
 # Introduction
 
-As part of the SWAT4HCLS BioHackathon 2025, we here report that we worked on the mapping and merging of different ontology models about genetic variants.
+As part of the SWAT4HCLS BioHackathon 2025, we here report that we worked on the mapping and merging of different ontology models about genetic variants. At SWAT4HCLS multiple groups discussed how they had represented sections of VCF in RDF ([@extends:discusses:Bodrug2025; @extends:discusses:Cazzaro2025; @extends:discusses:Crum2025]). 
 
 
 | Header 1 | Header 2 |
