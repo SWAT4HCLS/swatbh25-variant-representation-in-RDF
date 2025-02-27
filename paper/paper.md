@@ -1,23 +1,59 @@
 ---
-title: 'BioHackSWAT4HCLS25 report: Template for the very long title'
-title_short: 'BioHackSWAT4HCLS25 #26: unknown chemical substances'
+title: 'BioHackSWAT4HCLS25 report: Variant representation in RDF'
+title_short: 'BioHackSWAT4HCLS25 #26: Variant representation in RDF'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - Genetics 
+  - Variants
+  - Ontology Mapping
 authors:
-  - name: First Author
+  - name: Elias Crum
+    orcid: 0009-0005-3991-754X
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Núria Queralt Rosinach
+    orcid: 0000-0003-0169-8159
     affiliation: 2
+  - name: Alexandrina Bodrug
+    orcid:  0009-0006-3873-102X
+    affiliation: 3
+  - name: Pierre Larmande
+    orcid: 0000-0002-2923-9790
+    affiliation: 4
+  - name: Emiliano Reynares
+    orcid: 0000-0002-5109-3716
+    affiliation: 5
+  - name: Mark Doerr
+    orcid: 0000-0003-3270-6895
+    affiliation: 6
+  - name:  M. Scott Marshall
+    orcid: 0009-0003-6974-2213
+    affiliation: 7
+  - name: Alban Gaignard
+    orcid: 0000-0002-3597-8557
+    affiliation: 8
+  - name: Alexander Kellmann
+    orcid: 0000-0001-6108-5552
+    affiliation: 9
+    
 affiliations:
-  - name: First Affiliation
+  - name: 
     index: 1
-  - name: ELIXIR Europe
-    ror: 044rwnt51
+  - name: Leiden University Medical Center
     index: 2
-date: 8 November 2023
+  - name: 
+    index: 3
+  - name: IRD, University of Montpllier
+    index: 4
+  - name: 
+    index: 5
+  - name: University Greifswald
+    index: 6
+  - name: 
+    index: 7
+  - name: 
+    index: 8   
+  - name: UMCG, Rijksuniversiteit Groningen
+    index: 9
+date: 27. February 2025
 cito-bibliography: paper.bib
 event: BH25SWAT4HCLS
 biohackathon_name: "BioHackathon SWAT4HCLS 2025"
@@ -34,7 +70,14 @@ authors_short: First Author \emph{et al.}
 
 # Introduction
 
-As part of the SWAT4HCLS BioHackathon 2025, we here report...
+As part of the SWAT4HCLS BioHackathon 2025, we here report that we worked on the mapping and merging of different ontology models about genetic variants.
+
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| item 1 | item 2 |
+| item 3 | item 4 |
+ 
 
 ## Author information
 
@@ -135,3 +178,6 @@ Possible CiTO typing annotation include:
 ...
 
 ## References
+
+[TogoVar](https://doi.org/10.1038/s41439-022-00222-9)
+
